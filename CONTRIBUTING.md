@@ -1,3 +1,3 @@
 👍🎉 First off, thanks for visiting us! 🎉👍
 
-TO BE EDITED 
+We are not looking for any contributes at this time, however that might change soon! 
