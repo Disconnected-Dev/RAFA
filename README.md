@@ -2,7 +2,7 @@
 
 This project is in support of RAFA Rides which is a yearly chariety event held around the world raising money for the Royal Air Force Association. This Mapping tool, tracks users input from around the world showing those who have partaken.
 
-It has been built on the NextJS framework untilising our custom Open Street Maps Carto with the leaflet API. This has been built utlising the JSX language.
+It has been built on the NextJS framework utilising our custom Open Street Maps Carto with the leaflet API. This has been built utlising the JSX language.
 
 Main Commands to run up the site in a development environment have been listed below for ease of access.
 
