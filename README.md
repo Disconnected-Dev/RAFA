@@ -6,4 +6,4 @@ It has been built on the NextJS framework untilising our custom Open Street Maps
 
 Main Commands to run up the site in a development environment have been listed below for ease of access.
 
-## To run up the site, please clone this repo from github. Navigate to the associated folder and run the command "NPM INSTALL", this will install the required packages. Once that has been done, you can start the site with the command "NPM RUN DEV". This will load it on localhost:3000.
+To run up the site, please clone this repo from github. Navigate to the associated folder and run the command "NPM INSTALL", this will install the required packages. Once that has been done, you can start the site with the command "NPM RUN DEV". This will load it on localhost:3000.
