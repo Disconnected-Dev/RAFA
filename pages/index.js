@@ -27,7 +27,7 @@ function HomePage() {
   }
   return (
     <div>
-      <button onClick={() => signIn()}>Sign in</button>
+      <button onClick={() => signIn("cognito")}>Sign in</button>
       <Map />
     </div>
   );
